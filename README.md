@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Averyyy
 - 👀 I’m interested in Python/C/Robotics/Web
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python/C
+- 💞️ I’m looking to collaborate on Computer Music projects
 - 📫 How to reach me hq443@nyu.edu
 
 <!---
