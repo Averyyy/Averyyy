@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Averyyy
 - 👀 I’m interested in Python / C / Robotics / Web
-- 🌱 I’m currently learning Python / C / JavaScript
+- 🌱 I’m currently learning  C / JavaScript / TensorFlow / PyTorch
 - 🐱‍🚀 I want to learn Swift / C#
 - 💞️ I’m looking to collaborate on Computer Music projects
 - 📫 How to reach me hq443@nyu.edu
