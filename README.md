@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Averyyy
-- 👀 I’m interested in Python / Web
-- 🌱 I’m currently learning  Full Stack Dev / PyTorch
+- 👀 I’m interested in Web / App Dev & ML Tech
+- 🌱 I’m currently learning  Full Stack Dev / PyTorch / Flutter
 - 🐱‍🚀 I want to learn Swift / C#
 - 💞️ I’m looking to collaborate on Computer Music projects / Web Projects
 - 📫 How to reach me hq443@nyu.edu / hangkai2@illinois.edu
