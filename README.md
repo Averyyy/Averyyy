@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Averyyy
-- 👀 I’m interested in Web / App Dev & ML Tech
+- 👀 I’m interested in {Web / App} Dev & Machine Learning & GPT
 - 🌱 I’m currently learning  Full Stack Dev / PyTorch / Flutter
 - 🐱‍🚀 I want to learn Swift / C#
 - 💞️ I’m looking to collaborate on Computer Music projects / Web Projects
