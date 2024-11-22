@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Averyyy
-- 👀 I’m interested in Machine Learning & SDE & LLM
-- 🌱 I’m currently learning  Full Stack Dev / PyTorch / Flutter
-- 🐱‍🚀 I want to learn Swift / C#
-- 💞️ I’m looking to collaborate on LLM Projects
-- 📫 How to reach me hq443@nyu.edu / hangkai2@illinois.edu / qianhangkai@gmail.com
+- 👋 hi, i’m @Averyyy
+- 👀 i’m interested in deep learning & accelerated computing & sde
+- 🌱 i’m currently learning cuda & llm
+- 💞️ i’m looking to collaborate on llm/deeplearning projects
+- 📫 How to reach me 1661686497@qq.com / hq443@nyu.edu / hangkai2@illinois.edu
 
 <!---
 Averyyy/Averyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
